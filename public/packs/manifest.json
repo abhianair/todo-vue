@@ -1,0 +1,24 @@
+{
+  "application.js": "/packs/js/application-ea058b64f65d0f15d587.js",
+  "application.js.map": "/packs/js/application-ea058b64f65d0f15d587.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-ea058b64f65d0f15d587.js"
+      ],
+      "js.map": [
+        "/packs/js/application-ea058b64f65d0f15d587.js.map"
+      ]
+    },
+    "todo": {
+      "js": [
+        "/packs/js/todo-d05f427b4f727d4cfd81.js"
+      ],
+      "js.map": [
+        "/packs/js/todo-d05f427b4f727d4cfd81.js.map"
+      ]
+    }
+  },
+  "todo.js": "/packs/js/todo-d05f427b4f727d4cfd81.js",
+  "todo.js.map": "/packs/js/todo-d05f427b4f727d4cfd81.js.map"
+}
